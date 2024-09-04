@@ -1,0 +1,4 @@
+2358;Nuoc giai khat Sting;10000
+5567;Nuoc giai khat Olong;8000
+8892;Nuoc giai khat Tang Luc;15000
+7722;Nuoc Giai Khat CoCa Cola; 7000
